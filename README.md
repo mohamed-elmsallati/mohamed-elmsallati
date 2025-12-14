@@ -1,24 +1,5 @@
-  *                 +    o            o                                                       
-  . '      .  /                         .                             .                   +   
-             /     '     +   *                                                                
-            *           +    +             o                           o        o             
-    *        .                                        o   .                       .           
-                '*                                 *       o  +        o                 |    
-                     |                  '              .                            .   -+-   
-.           '       -+-                                                                  |    
-     ' .     .       |                                                   .                    
-         '                  +                              .              .                   
-      .      .     +           +                            +                                 
-                                *               o                    .          .        '    
-     '             '  '       |                                    .:'              o      o  
-                 *           -+-                     .-.       _.::'                          
-             o o              |    +                (   )     (_.'                          + 
-   .                   '             .               `-'                .                     
-       .:'           +                       .                                      .         
-   _.::'    +            . +           +  '                                                   
-  (_.'            +                           .               '                +              
-                                     .                  o                              
 ## Hi there 👋
+
 
 <!--
 **mohamed-elmsallati/mohamed-elmsallati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
