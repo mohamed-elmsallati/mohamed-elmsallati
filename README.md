@@ -1,2 +1,4 @@
-<img src="Minecraft bee Youtube banner 🐝.jpg" alt="Minecraft bee Youtube banner" width="100%">
-  <p> Welcome to my Profile</p>
+<img src="banner.jpg" alt="Banner Image">
+<div class="container" style="text-align: center;">
+<p text-align="center"> Welcome to my Profile</p>
+</div>
