@@ -10,20 +10,5 @@
 <a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/stars/mohamed-elmsallati?style=for-the-badge&color=e0af68&labelColor=1d202f&logo=star-fill&logoColor=e0af68&label=Stars" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=1d202f&logo=person-fill&logoColor=bb9af7&label=Followers" alt="Followers"></a>
 </div>
 
-<div align="center">
-  <div style="
-    background: #191919;
-    color: #7dcfff;
-    padding: 12px;
-    border-radius: 5px;
-    font-family: 'Courier New', monospace;
-    font-weight: bold;
-    border-left: 4px solid #7dcfff;
-    margin-bottom: 20px;
-    text-align: center;
-    display: inline-block;
-  ">
-    <span style="border-right: 2px solid #7dcfff;">│</span>
-    Creative Developer • Tech Enthusiast
-  </div>
-</div>
+### 🎯 **About Me**
+> Passionate developer creating games with Godot, 3D art with Blender, and web apps with TypeScript.
