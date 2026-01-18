@@ -17,3 +17,5 @@
 
 
 ```
+
+<img src="https://github.com/mohamed-elmsallati/ascii-text-art/png" alt="logo" width="100%" />
