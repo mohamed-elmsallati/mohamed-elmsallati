@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/mohamed-elmsallati"><img src="https://img.shields.io/github/stars/mohamed-elmsallati?style=for-the-badge&color=e0af68&labelColor=191919&label=Stars" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://img.shields.io/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=191919&label=Followers" alt="Followers"></a>
+<a href="https://github.com/mohamed-elmsallati"><img src="https://img.shields.io/github/stars/mohamed-elmsallati?style=for-the-badge&ogo=star&logoColor=e0af68&color=e0af68&labelColor=191919&label=Stars" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://img.shields.io/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=191919&label=Followers" alt="Followers"></a>
 </div>
