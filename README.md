@@ -13,15 +13,17 @@
 <div align="center">
   <div style="
     background: #191919;
-    color: #e0af68;
-    padding: 12px 20px;
-    border-radius: 8px;
+    color: #7dcfff;
+    padding: 12px;
+    border-radius: 5px;
+    font-family: 'Courier New', monospace;
     font-weight: bold;
-    border: 2px solid #e0af68;
+    border-left: 4px solid #7dcfff;
     margin-bottom: 20px;
+    text-align: center;
     display: inline-block;
-    animation: pulse 2s infinite;
   ">
-    🎮 Game Developer • 🎨 3D Artist • 💻 TypeScript
+    <span style="border-right: 2px solid #7dcfff;">│</span>
+    Creative Developer • Tech Enthusiast
   </div>
 </div>
