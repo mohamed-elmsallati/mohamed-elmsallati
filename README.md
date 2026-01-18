@@ -1,19 +1,18 @@
 ![Mohamed Elmsallati](/images/ascii-text-art.png)
 
 <div align="center">
-    <marquee behavior="scroll" direction="left" style="color: #e0af68; font-weight: bold;">
-<img src="https://img.shields.io/badge/Godot-191919?style=for-the-badge&logo=GodotEngine&logoColor=7aa2f7" alt="Godot">
-<img src="https://img.shields.io/badge/Blender-191919?style=for-the-badge&logo=blender&logoColor=e0af68" alt="Blender">
-<img src="https://img.shields.io/badge/TypeScript-191919?style=for-the-badge&logo=typescript&logoColor=7dcfff" alt="TypeScript">
-    </marquee>
+<img src="https://img.shields.io/badge/Godot-1d202f ?style=for-the-badge&logo=GodotEngine&logoColor=7aa2f7" alt="Godot">
+<img src="https://img.shields.io/badge/Blender-1d202f ?style=for-the-badge&logo=blender&logoColor=e0af68" alt="Blender">
+<img src="https://img.shields.io/badge/TypeScript-1d202f ?style=for-the-badge&logo=typescript&logoColor=7dcfff" alt="TypeScript">
 </div>
 
 <div align="center">
-<a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/stars/mohamed-elmsallati?style=for-the-badge&color=e0af68&labelColor=191919&logo=star-fill&logoColor=e0af68&label=Stars" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=191919&logo=person-fill&logoColor=bb9af7&label=Followers" alt="Followers"></a>
+<a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/stars/mohamed-elmsallati?style=for-the-badge&color=e0af68&labelColor=1d202f &logo=star-fill&logoColor=e0af68&label=Stars" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=1d202f &logo=person-fill&logoColor=bb9af7&label=Followers" alt="Followers"></a>
 </div>
 
-<marquee behavior="scroll" direction="left" style="color: #e0af68; font-weight: bold;">
-    <p>Test</p>
-    <p>Test</p>
-    <p>Test</p>
-</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="2" style="
+  color: #7dcfff;
+  font-weight: bold;
+  margin: 10px 0;
+  padding: 5px;
+">✨ Passionate Developer • Creative Problem Solver • Tech Enthusiast ✨</marquee>
