@@ -10,16 +10,18 @@
 <a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/stars/mohamed-elmsallati?style=for-the-badge&color=e0af68&labelColor=1d202f&logo=star-fill&logoColor=e0af68&label=Stars" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=1d202f&logo=person-fill&logoColor=bb9af7&label=Followers" alt="Followers"></a>
 </div>
 
-<div align="center" style="
-  background: #191919;
-  color: #7dcfff;
-  padding: 12px;
-  border-radius: 8px;
-  margin-bottom: 20px;
-  border: 2px solid #7aa2f7;
-  font-weight: bold;
-  font-family: monospace;
-  animation: pulse 2s infinite;
-">
-  ⭐ Godot Developer • Blender Artist • TypeScript Enthusiast ⭐
+<div align="center">
+  <div style="
+    background: #191919;
+    color: #e0af68;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    border: 2px solid #e0af68;
+    margin-bottom: 20px;
+    display: inline-block;
+    animation: pulse 2s infinite;
+  ">
+    🎮 Game Developer • 🎨 3D Artist • 💻 TypeScript
+  </div>
 </div>
