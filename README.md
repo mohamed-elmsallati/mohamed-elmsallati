@@ -5,5 +5,10 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" href="https://www.typescriptlang.org">
 </div>
 <div align="center">
+    <a href='https://github.com/mohamed-elmsallati?tab=repositories&sort=stargazers">
     <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=eaeaa0&labelColor=191919&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mohamed-elmsallati'/>
-</div>
+    </a>
+    <a href='https://github.com/mohamed-elmsallati?tab=followers'>
+            <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/mrhrifat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+    </a>
+</div
