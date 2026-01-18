@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" href="https://www.typescriptlang.org">
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username={mohamed-elmsallati}&theme={tokyo-night}" alt="GitHub Activity">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={mohamed-elmsallati}&theme={tokyo-night}" alt="GitHub Activity">
