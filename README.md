@@ -1,9 +1,11 @@
 ![Mohamed Elmsallati](/images/ascii-text-art.png)
 
 <div align="center">
+    <marquee behavior="scroll" direction="left" style="color: #e0af68; font-weight: bold;">
 <img src="https://img.shields.io/badge/Godot-191919?style=for-the-badge&logo=GodotEngine&logoColor=7aa2f7" alt="Godot">
 <img src="https://img.shields.io/badge/Blender-191919?style=for-the-badge&logo=blender&logoColor=e0af68" alt="Blender">
 <img src="https://img.shields.io/badge/TypeScript-191919?style=for-the-badge&logo=typescript&logoColor=7dcfff" alt="TypeScript">
+    </marquee>
 </div>
 
 <div align="center">
