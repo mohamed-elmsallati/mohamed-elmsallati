@@ -18,4 +18,4 @@
 
 ```
 
-![Mohamed Elmsallati](https://github.com/mohamed-elmsallati/mohamed-elmsallati/blob/main/assets/ascii-text-art.png)
+![Mohamed Elmsallati](/images/ascii-text-art.png)
