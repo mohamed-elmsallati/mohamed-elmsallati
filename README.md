@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/stars/mohamed-elmsallati?style=for-the-badge&color=e0af68&labelColor=191919&logo=star-fill&label=Stars" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=191919&logo=person-fill&label=Followers" alt="Followers"></a>
+<a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/stars/mohamed-elmsallati?style=for-the-badge&color=e0af68&labelColor=191919&logo=star-fill&logoColor=e0af68&label=Stars" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=191919&logo=person-fill&logoColor=bb9af7&label=Followers" alt="Followers"></a>
 </div>
