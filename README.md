@@ -7,7 +7,8 @@
 <div align="center">
     <a href='https://github.com/mohamed-elmsallati?tab=repositories&sort=stargazers'>
     <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=e0af68&labelColor=191919&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mohamed-elmsallati'/>
-    </a>-
+    </a>
+    <br>
     <a href='https://github.com/mohamed-elmsallati?tab=followers'>
             <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/mohamed-elmsallati?color=bb9af7&labelColor=191919&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
