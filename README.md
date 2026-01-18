@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/mohamed-elmsallati?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/dynamic/json?label=Stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/mohamed-elmsallati&style=for-the-badge&color=e0af68&labelColor=191919&logo=star&logoColor=white" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://img.shields.io/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=191919&label=Followers" alt="Followers"></a>
+<a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/stars/mohamed-elmsallati?style=for-the-badge&color=e0af68&labelColor=191919&logo=star-fill&label=Stars" alt="Stars"></a><a href="https://github.com/mohamed-elmsallati"><img src="https://custom-icon-badges.demolab.com/github/followers/mohamed-elmsallati?style=for-the-badge&color=bb9af7&labelColor=191919&logo=person-fill&label=Followers" alt="Followers"></a>
 </div>
